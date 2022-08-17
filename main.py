@@ -19,3 +19,6 @@ if __name__ == '__main__':
 
 def test_func():
     print('test_func')
+
+
+test_func()
